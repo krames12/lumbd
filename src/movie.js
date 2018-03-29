@@ -13,6 +13,6 @@ export default class Movie extends Component {
       <div >
         <h3>{this.props.movie.title}</h3>
       </div>
-    )
+    );
   }
 }
